@@ -28,7 +28,7 @@
 
 ---
 
-**Project Overview**
+### **Project Overview**
 
 In this project, I developed a predictive machine learning model to streamline the visa certification process for EasyVisa, a consultancy supporting the Office of Foreign Labor Certification (OFLC). With a rising volume of visa applications, OFLC faces challenges in reviewing each case manually, making it difficult to efficiently identify and certify qualified candidates. My objective was to create a data-driven solution that predicts visa approval likelihood based on applicant and employer characteristics, helping OFLC prioritize cases and reduce manual review time.
 
@@ -36,18 +36,18 @@ I began with Exploratory Data Analysis (EDA) to uncover significant patterns wit
 
 For modeling, I applied ensemble techniques such as Bagging (Random Forest) and Boosting (AdaBoost, Gradient Boosting, and XGBoost), which are known for improving predictive accuracy by combining multiple models. I also explored a Stacking Classifier to leverage the strengths of multiple algorithms and maximize predictive performance. By utilizing GridSearchCV for hyperparameter tuning, I optimized each model, ensuring high precision in predicting visa outcomes. This process not only helped in identifying high-accuracy models but also demonstrated which factors were most influential in predicting visa approval.
 
-**Summary of Findings**
+### **Summary of Findings**
 
 - `Education and Job Experience`: Higher education levels and relevant work experience were associated with increased approval rates, underscoring the value placed on skilled candidates.
 - `Wage Levels`: Higher prevailing wages correlated with approval likelihood, reflecting OFLC’s commitment to wage standards and workforce protection.
 - `Regional Influence`: Certain regions demonstrated higher approval rates, suggesting that regional factors could impact visa success.
 - `Job Type Preference`: Full-time positions were more favorably reviewed, aligning with OFLC’s focus on job stability.
 
-**Impact**
+### **Impact**
 
 The insights from this project allowed EasyVisa to provide OFLC with strategic recommendations, such as instituting minimum education and wage requirements and tailoring evaluations by region and job type. This machine learning solution not only enhances the visa certification process but also aligns with workforce standards, helping OFLC select candidates who meet U.S. labor market needs.
 
-**Project Outcome**
+### **Project Outcome**
 
 Through this project, I gained substantial experience in ensemble learning and hyperparameter tuning and demonstrated the potential of machine learning to support critical decision-making in government processes. This project highlights my ability to extract actionable business insights from data, leveraging advanced modeling techniques to address complex, high-stakes challenges.
 
