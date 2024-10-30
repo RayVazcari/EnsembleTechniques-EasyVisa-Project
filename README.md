@@ -1,5 +1,5 @@
 <h1><center><font size=10>Data Science and Business Analytics</center></font><p
-<center>Project 5 - Ensemble Techniques - Visa Approval Predition Model for EasyVisa</center></h1><p
+<center>Project 5 - Ensemble Techniques - Visa Approval Prediction Model for EasyVisa</center></h1><p
 
 <p align="left"> 
   <a href="https://github.com/RayVazcari?tab=followers">
